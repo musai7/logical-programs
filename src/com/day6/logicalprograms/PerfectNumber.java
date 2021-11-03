@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class PerfectNumber {
 	public static void main(String[] args) {
+		
 		int sumOfFactors=0;
 		Scanner sc =new Scanner(System.in);
 		System.out.println("enter a number to check strong number or not ");
